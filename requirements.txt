@@ -1,0 +1,6 @@
+yfinance==0.2.40
+numpy
+matplotlib
+pandas_datareader
+tqdm
+jupyterlab
